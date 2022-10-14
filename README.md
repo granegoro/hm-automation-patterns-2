@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4m8hbge8krl5m7rf?svg=true)](https://ci.appveyor.com/project/granegoro/testaccesshm)
